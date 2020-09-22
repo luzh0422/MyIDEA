@@ -63,7 +63,7 @@
         <option name="FOREGROUND" value="6c71c4" />
       </value>
     </option>
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="Abstract class">
       <value>
         <option name="FOREGROUND" value="859900" />
@@ -658,7 +658,6 @@
         <option name="FOREGROUND" value="859900" />
       </value>
     </option>
-    <option name="ERL_MACRO" baseAttributes="DEFAULT_STATIC_FIELD" />
     <option name="ERL_RECORDS">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
@@ -727,7 +726,6 @@
         <option name="FOREGROUND" value="859900" />
       </value>
     </option>
-    <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
     <option name="HAML_CLASS">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
@@ -801,7 +799,7 @@
         <option name="BACKGROUND" value="eae3d2" />
       </value>
     </option>
-    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="" />
     <option name="IVAR">
       <value>
         <option name="FOREGROUND" value="268bd2" />
@@ -961,7 +959,6 @@
     <option name="JSP_SCRIPTING_BACKGROUND">
       <value />
     </option>
-    <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
     <option name="KOTLIN_AUTO_CASTED_VALUE">
       <value>
         <option name="FOREGROUND" value="dbffdb" />
@@ -1043,6 +1040,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="LIVE_TEMPLATE_ATTRIBUTES">
+      <value />
+    </option>
     <option name="LOGCAT_ASSERT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="cf357f" />
@@ -1088,7 +1088,6 @@
         <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
-    <option name="LUA_DEFINED_CONSTANTS" baseAttributes="DEFAULT_CONSTANT" />
     <option name="LUA_FIELD">
       <value>
         <option name="FOREGROUND" value="b58900" />
@@ -1099,8 +1098,6 @@
         <option name="FOREGROUND" value="288dd1" />
       </value>
     </option>
-    <option name="LUA_LOCAL_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
-    <option name="LUA_LUADOC" baseAttributes="DEFAULT_DOC_COMMENT" />
     <option name="LUA_PARAMETER">
       <value>
         <option name="FOREGROUND" value="657b83" />
@@ -1358,10 +1355,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="PERL_DQ_STRING" baseAttributes="DEFAULT_STRING" />
-    <option name="PERL_DX_STRING" baseAttributes="DEFAULT_STRING" />
-    <option name="PERL_EMBED_MARKER" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
-    <option name="PERL_GLOB" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="PERL_GLOB_BUILTIN">
       <value>
         <option name="FOREGROUND" value="657b83" />
@@ -1386,8 +1379,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="PERL_NUMBER" baseAttributes="DEFAULT_NUMBER" />
-    <option name="PERL_PACKAGE" baseAttributes="DEFAULT_CLASS_NAME" />
     <option name="PERL_PACKAGE_CORE">
       <value>
         <option name="FOREGROUND" value="268bd2" />
@@ -1400,7 +1391,6 @@
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
-    <option name="PERL_REGEX_TOKEN" baseAttributes="DEFAULT_STRING" />
     <option name="PERL_SCALAR">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
@@ -1412,7 +1402,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="PERL_SQ_STRING" baseAttributes="DEFAULT_STRING" />
     <option name="PERL_SUB">
       <value>
         <option name="FOREGROUND" value="a56ada" />
@@ -1424,8 +1413,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="PERL_SUB_DEFINITION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="PERL_VERSION" baseAttributes="PERL_NUMBER" />
     <option name="PERL_XSUB">
       <value>
         <option name="FOREGROUND" value="a56ada" />
@@ -1464,7 +1451,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="POD_TEXT" baseAttributes="DEFAULT_DOC_COMMENT" />
     <option name="PROPERTIES.VALID_STRING_ESCAPE">
       <value />
     </option>
@@ -1545,7 +1531,6 @@
         <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
-    <option name="PY.FUNC_DEFINITION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
@@ -1571,7 +1556,6 @@
         <option name="FOREGROUND" value="2aa198" />
       </value>
     </option>
-    <option name="PY.STRING.U" baseAttributes="DEFAULT_STRING" />
     <option name="Predefined types">
       <value>
         <option name="FOREGROUND" value="2688d1" />
@@ -2012,8 +1996,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="SLIM_ID" baseAttributes="CSS.HASH" />
-    <option name="SLIM_RUBY_CODE" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="SMARTY_IDENTIFIER">
       <value>
         <option name="BACKGROUND" value="eee8d5" />
@@ -2137,8 +2119,8 @@
         <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
-    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
+    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="" />
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="" />
     <option name="STRUCT_LIKE">
       <value>
         <option name="FOREGROUND" value="b38700" />
@@ -2534,7 +2516,6 @@
         <option name="FOREGROUND" value="808080" />
       </value>
     </option>
-    <option name="org.rust.DOC_CODE" baseAttributes="DEFAULT_DOC_MARKUP" />
     <option name="org.rust.LIFETIME">
       <value>
         <option name="FOREGROUND" value="66a34d" />

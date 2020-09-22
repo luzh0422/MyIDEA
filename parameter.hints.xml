@@ -2,9 +2,9 @@
   <component name="ParameterNameHintsSettings">
     <disabledLanguages>
       <language id="TypeScript" />
+      <language id="Angular2Html" />
       <language id="JavaScript" />
-      <language id="ObjectiveC" />
-      <language id="SQL" />
+      <language id="Vue" />
     </disabledLanguages>
   </component>
 </application>
