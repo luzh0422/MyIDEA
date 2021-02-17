@@ -47,6 +47,10 @@
   <action id="GotoNextError" />
   <action id="InsertLiveTemplate" />
   <action id="Move" />
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="shift meta n" />
+  </action>
+  <action id="NewScratchFile" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt tab" />
     <keyboard-shortcut first-keystroke="ctrl meta close_bracket" />
