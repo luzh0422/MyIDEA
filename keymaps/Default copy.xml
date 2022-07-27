@@ -60,6 +60,9 @@
     <keyboard-shortcut first-keystroke="shift alt tab" />
     <keyboard-shortcut first-keystroke="ctrl meta open_bracket" />
   </action>
+  <action id="PublishGroup.Upload">
+    <keyboard-shortcut first-keystroke="shift meta x" />
+  </action>
   <action id="QuickChangeScheme" />
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="ctrl j" />
